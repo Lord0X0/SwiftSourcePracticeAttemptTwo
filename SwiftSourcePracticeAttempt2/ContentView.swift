@@ -18,6 +18,9 @@ struct ContentView: View {
                 .font(.largeTitle)
             Text("Added changes for practice")
                 .font(.title3)
+            Button("Love") {
+                
+            }
         }
         .padding()
         .padding()
