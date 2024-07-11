@@ -5,6 +5,26 @@
 //  Created by Zachariah Hornes on 7/10/24.
 //
 
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Description of the feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of patch
+ 
+ BUT NOT IN PRODUCTION:
+ [Bug] Descrption of the bug
+ 
+ MUNDANE TASKS:
+ [Clean] Description of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ 
+ */
+
 import SwiftUI
 
 struct HomeScreenCommitPractice_: View {
