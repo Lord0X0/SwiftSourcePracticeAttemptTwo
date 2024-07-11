@@ -11,6 +11,7 @@
 		B9CE613E2C3DF2B800D726AE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CE613D2C3DF2B800D726AE /* ContentView.swift */; };
 		B9CE61402C3DF2B900D726AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CE613F2C3DF2B900D726AE /* Assets.xcassets */; };
 		B9CE61432C3DF2B900D726AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CE61422C3DF2B900D726AE /* Preview Assets.xcassets */; };
+		B9CE614A2C3EF7BE00D726AE /* HomeScreenCommitPractice .swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CE61492C3EF7BE00D726AE /* HomeScreenCommitPractice .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B9CE613D2C3DF2B800D726AE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B9CE613F2C3DF2B900D726AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9CE61422C3DF2B900D726AE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B9CE61492C3EF7BE00D726AE /* HomeScreenCommitPractice .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeScreenCommitPractice .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B9CE613B2C3DF2B800D726AE /* SwiftSourcePracticeAttempt2App.swift */,
 				B9CE613D2C3DF2B800D726AE /* ContentView.swift */,
+				B9CE61492C3EF7BE00D726AE /* HomeScreenCommitPractice .swift */,
 				B9CE613F2C3DF2B900D726AE /* Assets.xcassets */,
 				B9CE61412C3DF2B900D726AE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9CE614A2C3EF7BE00D726AE /* HomeScreenCommitPractice .swift in Sources */,
 				B9CE613E2C3DF2B800D726AE /* ContentView.swift in Sources */,
 				B9CE613C2C3DF2B800D726AE /* SwiftSourcePracticeAttempt2App.swift in Sources */,
 			);
