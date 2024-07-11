@@ -9,9 +9,16 @@ import SwiftUI
 
 struct HomeScreenCommitPractice_: View {
     var body: some View {
-        Text("Main Screen")
-        Image(systemName: "shield")
-            .font(.largeTitle)
+        
+        ZStack {
+            Text("Main Screen")
+                .font(.largeTitle)
+                .padding()
+                .padding()
+            Image(systemName: "shield")
+                .font(.largeTitle)
+               
+        }
     }
 }
 
