@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Lets Try This Again")
                 .font(.largeTitle)
-            Text("Added changes for practice")
+            Text("Added changes for practice and understanding GitHub/GitKraken")
                 .font(.title3)
             Button("More") {
                 
