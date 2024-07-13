@@ -23,7 +23,7 @@ struct ContentView: View {
             }
             .font(.title)
             .padding()
-            Button("Love") {
+            Button("Love for me ") {
                
             }
             .font(.largeTitle)
